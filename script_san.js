@@ -43,7 +43,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
 document.getElementById('sorpresaBtn').addEventListener('click', function() {
     // Redireccionar a "flores.html"
-    window.location.href = 'C:\\Users\\diegu\\Desktop\\SanValentin\\quieressermisanvalentin\\cartaprogramadores\\html\\flores.html';
+    window.location.href = 'flores.html';
 });
 
 

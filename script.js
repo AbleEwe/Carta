@@ -8,7 +8,7 @@ $(document).ready(function(){
     $('.envelope').css({'animation':'fall 3s linear 1', '-webkit-animation':'fall 3s linear 1'});
     $('.envelope').fadeOut(800, function() {
       // Redireccionar al usuario a la página "sanvalentin.html" después de que se complete la animación
-      window.location.href = 'html/sanvanlentin.html';
+      window.location.href = 'sanvanlentin.html';
     });
   });
 });
